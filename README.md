@@ -1,4 +1,4 @@
-# Hyperbolic-t-SNE
+# Hyperbolic t-SNE
 Performing t-SNE embedding in hyperbolic space 
 
 
