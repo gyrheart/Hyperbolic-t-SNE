@@ -1,4 +1,4 @@
-# Hyperbolic t-SNE
+# Hyperbolic t-SNE (h-SNE)
 Performing t-SNE embedding in hyperbolic space to preserve global hyperbolic structure of data.
 
 Saved_data: this folder contains all the saved .mat files. The Lukk’s dataset was not included here and needs to be downloaded from https://www.ebi.ac.uk/arrayexpress/files/E-MTAB-62/E-MTAB-62.processed.2.zip. After downloading and unzipping the file, go to /Saved_data/SaveLukkData.m and follow the commands to transform and save the data as .mat format.
